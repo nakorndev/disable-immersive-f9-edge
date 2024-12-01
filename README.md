@@ -1,6 +1,6 @@
 # Disable F9 on Microsoft Edge
 
-You can use the registry file [disable_F9_on_edge.reg](disable_F9_on_edge.reg) to disable the F9 shortcut on Microsoft Edge.
+You can use the registry file [disable_immersive_f9_on_edge.reg](disable_immersive_f9_on_edge.reg) to disable the F9 shortcut on Microsoft Edge.
 
 Please note that you need to have administrative privileges to merge the registry file.
 
